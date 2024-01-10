@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/far-away-travel-list/static/css/main.708779c1.css",
-    "main.js": "/far-away-travel-list/static/js/main.cd64cc3c.js",
+    "main.css": "/far-away-travel-list/static/css/main.97dbe68c.css",
+    "main.js": "/far-away-travel-list/static/js/main.56d99f0f.js",
     "index.html": "/far-away-travel-list/index.html",
-    "main.708779c1.css.map": "/far-away-travel-list/static/css/main.708779c1.css.map",
-    "main.cd64cc3c.js.map": "/far-away-travel-list/static/js/main.cd64cc3c.js.map"
+    "main.97dbe68c.css.map": "/far-away-travel-list/static/css/main.97dbe68c.css.map",
+    "main.56d99f0f.js.map": "/far-away-travel-list/static/js/main.56d99f0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.708779c1.css",
-    "static/js/main.cd64cc3c.js"
+    "static/css/main.97dbe68c.css",
+    "static/js/main.56d99f0f.js"
   ]
 }
