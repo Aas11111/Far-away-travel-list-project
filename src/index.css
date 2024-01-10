@@ -130,3 +130,73 @@ input[type="checkbox"] {
   font-weight: 700;
   padding: 3.2rem 0;
 }
+
+/* ///////////////////// */
+/*  */
+@media (max-width: 60em) {
+  h1 {
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-weight: 200;
+    word-spacing: 15px;
+    letter-spacing: -5px;
+    padding: 1.4rem 0;
+  }
+
+  .add-form {
+    padding: 1.4rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.2rem;
+  }
+  h3 {
+    margin-right: 0.2rem;
+    font-size: 1.8rem;
+  }
+  .select-input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  button,
+  select,
+  input {
+    border-radius: 5rem;
+    padding: 0.8rem 1.8rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  input[type="text"] {
+    width: 15rem;
+  }
+
+  .list ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .actions button,
+  .list select {
+    text-transform: uppercase;
+    padding: 0.4rem 1.4rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0 0.4rem;
+  }
+  .actions select:first-child {
+    /* width: 16.9rem; */
+    /* font-size: 1rem; */
+  }
+  .stats {
+    text-align: center;
+    font-weight: 600;
+    padding: 2.2rem 0.8rem;
+    font-size: 2rem;
+  }
+}
